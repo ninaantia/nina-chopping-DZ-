@@ -10,7 +10,7 @@
 
 
 header {
-    background-color: #696969;
+    background-color: #FFFAFA;
     width: 100%;
     position: fixed;
     z-index: 999;
@@ -35,11 +35,10 @@ header {
     font-size: 1.1em;
     font-weight: 500;
     padding-left: 30;
-    bordor-radius: 20px
+   
 }
 
 .navigation a:hover{
-    background:#fff;
     color: violet;
 }
 
