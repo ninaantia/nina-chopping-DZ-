@@ -35,7 +35,7 @@ header {
     font-size: 1.1em;
     font-weight: 500;
     padding-left: 40px;
-    border-radius: 10px;
+    border-radius: 20px;
    
 }
 
@@ -174,7 +174,7 @@ section {
 .project-card {
     background-color: #fff;
     border: 1px solid #fff;
-    min-height: 14em;
+    min-height: 7em;
     width: 23em;
     overflow: hidden;
     border-radius: 10px;
