@@ -10,7 +10,7 @@
 
 
 header {
-    background-color: #f0f0f0;
+    background-color: #696969;
     width: 100%;
     position: fixed;
     z-index: 999;
@@ -34,7 +34,7 @@ header {
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
-    padding-left: 6px 15px;
+    padding-left: 30;
     bordor-radius: 20px
 }
 
